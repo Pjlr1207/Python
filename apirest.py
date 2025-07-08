@@ -6,8 +6,8 @@ app = Flask(__name__)
 # Configuración de la base de datos
 DB_CONFIG = {
     'host': 'PORTATILIAPABLO\PORTATILIA2017',      # Cambia esto por tu servidor SQL Server
-    'user': 'sa',     # Usuario de SQL Server
-    'password': 'Pl8493914',  # Contraseña de SQL Server
+    'user': '',     # Usuario de SQL Server
+    'password': '',  # Contraseña de SQL Server
     'database': 'pty'   # Nombre de la base de datos
 }
 
